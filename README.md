@@ -5,7 +5,7 @@
 
 # Branch 컨벤션 (규칙)
 main
-└──닉네임/main
-    └──닉네임/week1
-    └──닉네임/week2
+/└──닉네임/main
+    /└──닉네임/week1
+    /└──닉네임/week2
 
