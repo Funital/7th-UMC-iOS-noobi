@@ -2,9 +2,6 @@
 
 # Member
 
-## 📝 Commit Convention
-[noobi/week1] 학습한 내용
-
 # Branch 컨벤션 (규칙)
 <pre>
 main
