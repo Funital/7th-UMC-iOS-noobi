@@ -13,6 +13,6 @@ main
 
 # 커밋 컨벤션 (규칙)
 <pre>
-    [noobi/주차] 내용
+[noobi/주차] 내용
 </pre>
 
